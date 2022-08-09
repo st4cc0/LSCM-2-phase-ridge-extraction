@@ -1,0 +1,1 @@
+place 2-channel .tiff file in this folder
