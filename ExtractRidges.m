@@ -1,3 +1,4 @@
+% (CC 2022 by Lukas Hauer)
 close all
 clearvars
 clc
