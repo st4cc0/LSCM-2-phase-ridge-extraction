@@ -1,3 +1,6 @@
+%% This script extracts temporal averages of the ridge profile
+% (CC 2022 by Lukas Hauer)
+
 close all
 clearvars
 clc
