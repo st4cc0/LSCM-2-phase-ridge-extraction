@@ -1,5 +1,5 @@
-%% T
-%This script generates temporal averaged LSCM images
+%%This script generates temporal averaged LSCM images
+% (CC 2022 by Lukas Hauer)
 
 close all
 clearvars
